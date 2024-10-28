@@ -23,6 +23,6 @@ The prework study guide a very useful notebook summarizes all the beginning step
 
 
 URL of the GitHub repository
-https://kevinchau7.github.io/bootcamp-hw-1/
+https://georgecho98.github.io/bootcamp-hw-1/
 
 Hon chau
